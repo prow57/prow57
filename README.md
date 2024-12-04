@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prow57, by the name Immanuel Bester
-- 👀 I’m interested in ... Web and Android development as well as ethical hacking
+- 👀 I’m interested in ... Web and Mobile app development, cloud computing, ai and machine learning
 - 🌱 I’m currently learning ...at University of Malawi
-- 💞️ I’m looking to collaborate on ...building a multifunction web app
+- 💞️ I’m looking to collaborate on ...building systems that can change and make people's lives easy and better
 - 📫 How to reach me ...immanuelbester10@gmail.com
 
 <!---
