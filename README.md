@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Immanuel Bester (@prow57)</h1>
 
 <p align="center">
-Senior Software Developer | Systems Architect | AI & Cloud Engineer  
+Senior Systems Developer | Systems Architect | AI & Cloud Engineer  
 Building scalable, high-impact technology that solves real-world problems.
 </p>
 
@@ -9,7 +9,7 @@ Building scalable, high-impact technology that solves real-world problems.
 
 ## 🚀 About Me
 
-- 💼 Senior Software Developer at **iMoSys**
+- 💼 Senior Systems Developer at **iMoSys**
 - 🌍 Based in Malawi, building scalable systems for Africa and beyond
 - 👀 Passionate about Web & Mobile Development, Cloud Computing, AI & Machine Learning
 - 🧠 Strong focus on architecture, performance, security & scalability
