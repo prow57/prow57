@@ -18,7 +18,6 @@ Building scalable, high-impact technology for Africa and beyond.
 | | |
 |---|---|
 | 🏢 | Senior Systems Developer at **iMoSys**, building enterprise-grade platforms |
-| 🚀 | Founder at **KroneLabs** — a tech studio shipping real African software products |
 | 🧠 | Deep focus on architecture, security, scalability & AI-driven systems |
 | ⚡ | Turning complex problems into clean, production-ready solutions |
 
